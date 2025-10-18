@@ -1,0 +1,108 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HealthLink AI Prototype</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="icon" href="https://img.icons8.com/color/96/000000/hospital-room.png">
+</head>
+
+<body class="bg-gray-50 text-gray-800 font-sans">
+  <!-- NAVBAR -->
+  <header class="bg-white shadow sticky top-0 z-50">
+    <div class="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
+      <h1 class="text-2xl font-bold text-emerald-600">HealthLink AI</h1>
+      <nav class="space-x-6 hidden md:block">
+        <a href="#about" class="hover:text-emerald-600">About</a>
+        <a href="#features" class="hover:text-emerald-600">Features</a>
+        <a href="#contact" class="hover:text-emerald-600">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- HERO SECTION -->
+  <section class="bg-gradient-to-r from-emerald-600 to-teal-500 text-white text-center py-20">
+    <div class="max-w-3xl mx-auto">
+      <h2 class="text-4xl md:text-5xl font-extrabold mb-6">AI-Powered Health Advisory for Rural Communities</h2>
+      <p class="text-lg md:text-xl mb-10">
+        Empowering community health volunteers to triage and refer patients intelligently using AI and mobile tools.
+      </p>
+      <div class="flex justify-center space-x-4">
+        <a href="http://localhost:3000" class="bg-white text-emerald-600 font-semibold px-6 py-3 rounded-lg hover:bg-gray-100 transition">
+          Open Dashboard
+        </a>
+        <a href="http://localhost:8000/docs" class="bg-emerald-800 text-white font-semibold px-6 py-3 rounded-lg hover:bg-emerald-700 transition">
+          Backend API
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT SECTION -->
+  <section id="about" class="py-20 px-6 max-w-5xl mx-auto text-center">
+    <h3 class="text-3xl font-bold text-emerald-600 mb-4">About HealthLink AI</h3>
+    <p class="text-gray-700 text-lg leading-relaxed">
+      HealthLink AI is a lightweight machine-learning-driven triage system designed for rural healthcare environments.
+      Community health volunteers collect basic patient symptoms and vitals through a mobile app. The system’s backend
+      runs a trained logistic regression model to classify urgency levels (GREEN, YELLOW, RED), generating instant
+      recommendations and referrals to local clinics.
+    </p>
+  </section>
+
+  <!-- FEATURES -->
+  <section id="features" class="bg-gray-100 py-20 px-6">
+    <div class="max-w-6xl mx-auto text-center">
+      <h3 class="text-3xl font-bold text-emerald-600 mb-12">Core Features</h3>
+      <div class="grid md:grid-cols-3 gap-10">
+        <div class="bg-white p-8 rounded-2xl shadow">
+          <img src="https://img.icons8.com/color/96/artificial-intelligence.png" class="mx-auto mb-4" alt="AI icon">
+          <h4 class="text-xl font-semibold mb-2">AI-driven Triage</h4>
+          <p class="text-gray-600">
+            Uses machine learning to assess symptoms and suggest severity categories instantly.
+          </p>
+        </div>
+        <div class="bg-white p-8 rounded-2xl shadow">
+          <img src="https://img.icons8.com/color/96/mobile-app.png" class="mx-auto mb-4" alt="Mobile icon">
+          <h4 class="text-xl font-semibold mb-2">Mobile App for CHWs</h4>
+          <p class="text-gray-600">
+            Flutter-based app for offline-first patient registration, data collection, and syncing.
+          </p>
+        </div>
+        <div class="bg-white p-8 rounded-2xl shadow">
+          <img src="https://img.icons8.com/color/96/hospital-room.png" class="mx-auto mb-4" alt="Clinic icon">
+          <h4 class="text-xl font-semibold mb-2">Clinic Dashboard</h4>
+          <p class="text-gray-600">
+            Web dashboard for clinics to view incoming referrals and patient triage statuses.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CALL TO ACTION -->
+  <section class="text-center py-20 bg-emerald-600 text-white">
+    <h3 class="text-3xl font-bold mb-6">Ready to experience HealthLink AI?</h3>
+    <p class="mb-8 text-lg">
+      Start the local server and explore the live demo right from your computer or Android emulator.
+    </p>
+    <button onclick="launchGuide()" class="bg-white text-emerald-700 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100">
+      View Setup Guide
+    </button>
+  </section>
+
+  <!-- FOOTER -->
+  <footer id="contact" class="bg-gray-900 text-gray-400 text-center py-6">
+    <p>© 2025 HealthLink AI Prototype. Built with ❤️ using FastAPI, Flutter & React.</p>
+  </footer>
+
+  <script>
+    function launchGuide() {
+      alert("Setup Instructions:\n\n1. Run python setup_venv.py\n2. Start backend: uvicorn main:app --reload\n3. Start dashboard: npm start\n4. Open http://localhost:3000 in browser\n5. Launch mobile app via Flutter emulator.");
+    }
+  </script>
+</body>
+</html>
+Landing.txt
+Displaying Landing.txt.
