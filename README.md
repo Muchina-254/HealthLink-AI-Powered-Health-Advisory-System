@@ -1,2 +1,2 @@
-# HEALTHLINK_AI-1
+# AI Powered Health Advisory system
 Project
