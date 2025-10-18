@@ -8,5 +8,5 @@ Built to operate in low-resource and low-connectivity environments, the platform
 
 💡 Prototype implementation focuses on Siaya County and common ailments such as fever, cough, diarrhea, and convulsions.
 
-🛠 How to Run the Project
-file:///C:/Users/muchi/OneDrive/Desktop/AI%20Powered%20Healthlink.html
+# 🛠 How to Run the Project
+
