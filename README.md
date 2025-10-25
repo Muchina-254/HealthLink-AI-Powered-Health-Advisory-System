@@ -38,6 +38,11 @@ Share insights with supervisors and medical officers in real time
 📋 Improved accountability and transparency.
 📊 Real-time analytics and visualization.
 
+🧭 Project Board
+
+Track project milestones, sprints, and progress here:
+🔗 HealthLink Project Board
+
 🧩 Tech Stack
 
 Frontend: Flutter (for mobile)
@@ -60,10 +65,15 @@ Reduce healthcare response times via automation and real-time reporting.
 
 Support data privacy and compliance with the Data Protection Act (2019).
 
+🌍 Built for
+
+Kenya’s Community Health Workers, clinics, and health administrators, working to improve healthcare access and outcomes through digital innovation, AI, and data-driven decision-making.
+
 🤝 Contribution
 
 Contributions are welcome!
 Fork the repository, create a feature branch, and submit a pull request.
+
 
 📞 Contact
 
