@@ -1,10 +1,10 @@
-🩺 HealthLink -AI-Powered  Health Advisory System
+## 🩺 HealthLink -AI-Powered  Health Advisory System
 
 AI-Powered Health Advisory System is a digital health platform designed to support Community Health Workers (CHWs) in Kenya by enabling offline-first data collection, AI-assisted triage, and real-time reporting to national health systems.
 
 The system bridges critical gaps in Kenya’s community health delivery by ensuring timely decision-making, improving data quality, and enhancing coordination between CHWs and healthcare facilities.
 
-🌍 Project Overview
+## 🌍 Project Overview
 
 In many rural areas, limited connectivity, manual reporting, and fragmented data systems hinder effective community healthcare. This system provides an integrated, mobile-first solution that empowers CHWs to:
 
@@ -16,7 +16,7 @@ Sync data securely to a centralized cloud dashboard
 
 Share insights with supervisors and medical officers in real time
 
-🚨 Current Challenges
+## 🚨 Current Challenges
 
 ⚙️ Limited offline functionality.
 🔗 Poor integration with national and county health databases.
@@ -27,7 +27,7 @@ Share insights with supervisors and medical officers in real time
 💻 Weak interoperability between mobile and web systems.
 🔐 Privacy and data protection vulnerabilities.
 
-🌟 Benefits of the New System
+## 🌟 Benefits of the New System
 
 📶 Offline-first functionality.
 🤖 Automated AI-driven triage.
@@ -38,12 +38,11 @@ Share insights with supervisors and medical officers in real time
 📋 Improved accountability and transparency.
 📊 Real-time analytics and visualization.
 
-🧭 Project Board
+## 🛠 How to Run the Project
 
-Track project milestones, sprints, and progress here:
-🔗 HealthLink Project Board
+https://nyumbaniconnect.netlify.app/
 
-🧩 Tech Stack
+## 🧩 Tech Stack
 
 Frontend: Flutter (for mobile)
 
@@ -55,7 +54,7 @@ AI Engine: TensorFlow Lite for on-device triage
 
 Hosting: Google Cloud Platform
 
-🎯 Core Objectives
+## 🎯 Core Objectives
 
 Strengthen Kenya’s community health data infrastructure.
 
@@ -65,17 +64,17 @@ Reduce healthcare response times via automation and real-time reporting.
 
 Support data privacy and compliance with the Data Protection Act (2019).
 
-🌍 Built for
+## 🌍 Built for
 
 Kenya’s Community Health Workers, clinics, and health administrators, working to improve healthcare access and outcomes through digital innovation, AI, and data-driven decision-making.
 
-🤝 Contribution
+## 🤝 Contribution
 
 Contributions are welcome!
 Fork the repository, create a feature branch, and submit a pull request.
 
 
-📞 Contact
+## 📞 Contact
 
 For collaboration or inquiries, reach out via:
 📧muchinasarah@gmail.com
