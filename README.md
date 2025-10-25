@@ -1,4 +1,4 @@
-🩺 Health Link -AI-Powered  Health Advisory System
+🩺 HealthLink -AI-Powered  Health Advisory System
 
 AI-Powered Health Advisory System is a digital health platform designed to support Community Health Workers (CHWs) in Kenya by enabling offline-first data collection, AI-assisted triage, and real-time reporting to national health systems.
 
