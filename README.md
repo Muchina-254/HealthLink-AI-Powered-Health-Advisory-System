@@ -1,6 +1,6 @@
-🩺 AI-Powered Community Health Advisory System
+🩺 Health Link -AI-Powered  Health Advisory System
 
-AI-Powered Community Health Advisory System is a digital health platform designed to support Community Health Workers (CHWs) in Kenya by enabling offline-first data collection, AI-assisted triage, and real-time reporting to national health systems.
+AI-Powered Health Advisory System is a digital health platform designed to support Community Health Workers (CHWs) in Kenya by enabling offline-first data collection, AI-assisted triage, and real-time reporting to national health systems.
 
 The system bridges critical gaps in Kenya’s community health delivery by ensuring timely decision-making, improving data quality, and enhancing coordination between CHWs and healthcare facilities.
 
