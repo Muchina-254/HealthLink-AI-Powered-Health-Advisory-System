@@ -18,14 +18,14 @@ Share insights with supervisors and medical officers in real time
 
 🚨 Current Challenges
 
-⚙️ Limited offline functionality, restricting usability in low-connectivity regions where CHWs frequently operate.
-🔗 Poor integration with national and county health databases, leading to isolated records and duplicate data entry.
-🧠 Lack of AI-based triage support, limiting CHWs’ ability to make data-driven clinical decisions on the ground.
-💸 High operational and maintenance costs, caused by technically complex legacy systems.
-🗣️ Language and cultural barriers, which reduce community engagement and understanding of health tools.
-🕒 Fragmented and delayed data submission, resulting in slow response times and poor decision timelines.
-💻 Weak interoperability between mobile and web systems, causing data syncing errors and inefficiencies.
-🔐 Privacy and data protection vulnerabilities, exposing sensitive health information to potential misuse.
+⚙️ Limited offline functionality.
+🔗 Poor integration with national and county health databases.
+🧠 Lack of AI-based triage support.
+💸 High operational and maintenance costs.
+🗣️ Language and cultural barriers.
+🕒 Fragmented and delayed data submission.
+💻 Weak interoperability between mobile and web systems.
+🔐 Privacy and data protection vulnerabilities.
 
 🌟 Benefits of the New System
 
