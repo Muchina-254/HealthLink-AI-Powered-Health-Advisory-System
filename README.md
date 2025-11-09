@@ -40,7 +40,7 @@ Share insights with supervisors and medical officers in real time
 
 ## 🛠 How to Run the Project
 
-https://
+https://healthlink-ai.netlify.app/
 
 ## 🧩 Tech Stack
 
